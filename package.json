@@ -1,0 +1,16 @@
+{
+  "name": "brunch-skeleton-bootstrap",
+  "version": "0.1.0",
+  "description": "Bootstrap skeleton for brunch",
+  "author": "Pierre Moinet",
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "brunch": "^2.10.17",
+    "jquery": "^3.3.1",
+    "sass-brunch": "^2.10.8"
+  }
+}
